@@ -18,3 +18,8 @@
 !/tmp/.keep
 
 .byebug_history
+
+# ignore development file
+development*
+
+restart.txt
