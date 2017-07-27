@@ -23,3 +23,7 @@
 development*
 
 restart.txt
+
+# Ignore node modules
+*/blog-front/node_modules/*
+node_modules/*
